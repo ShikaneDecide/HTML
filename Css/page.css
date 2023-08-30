@@ -67,3 +67,122 @@ body {
   background-color: rgb(181, 224, 238);
   border-radius: 10px;
 }
+
+/* Contact Section */
+.contact {
+  text-align: center;
+  padding: 30px 0;
+  background-color: #f8f8f8;
+}
+
+.contact p {
+  margin: 5px 0;
+}
+
+/* Summary Section */
+.summary {
+  padding: 40px 0;
+  text-align: center;
+  background-color: #eaeaea;
+}
+
+.summary p {
+  margin: 5px 0;
+}
+
+/* Experience Section */
+.summary h3 {
+  font-size: 24px;
+  margin: 10px 0;
+}
+
+/* About Me Section */
+.aboutme {
+  padding: 40px 0;
+  text-align: center;
+  background-color: #f8f8f8;
+}
+
+.aboutme img {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0;
+}
+
+.aboutme h2 {
+  margin: 10px 0;
+}
+
+/* Lets Connect Section */
+.lets-connect {
+  padding: 40px 0;
+  text-align: center;
+  background-color: #eaeaea;
+}
+
+.lets-connect h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.lets-connect p {
+  margin: 5px 0;
+}
+
+/* Contact Form Section */
+.contact-form {
+  padding: 40px 0;
+  text-align: center;
+  background-color: #f8f8f8;
+}
+
+.contact-form p {
+  margin: 5px 0;
+}
+
+.contact-form h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contact-form button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+/* Footer Section */
+footer {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #333;
+  color: white;
+}
+
+.footer p {
+  margin: 5px 0;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.social-links source {
+  margin: 0 5px;
+}
